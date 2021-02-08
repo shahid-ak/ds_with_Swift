@@ -1,11 +1,3 @@
-//
-//  main.swift
-//  Linkedlist
-//
-//  Created by ShahidAK on 03/02/21.
-//  Copyright © 2021 ShahidAK. All rights reserved.
-//
-
 import Foundation
 
 class Node{
