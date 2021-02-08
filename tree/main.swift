@@ -1,11 +1,3 @@
-//
-//  main.swift
-//  tree
-//
-//  Created by ShahidAK on 04/02/21.
-//  Copyright © 2021 ShahidAK. All rights reserved.
-//
-
 import Foundation
 
 class Node{
